@@ -1,0 +1,17 @@
+.slick-prev,
+.slick-next {
+  z-index: 2;
+}
+.slick-prev {
+  left: 25px;
+}
+.slick-next {
+  right: 25px;
+}
+.slick-slide img {
+  width: 100%;
+}
+.slick-next:before {
+  color: blue;
+  font-size: 25px;
+}
